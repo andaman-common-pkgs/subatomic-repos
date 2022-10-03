@@ -7,3 +7,4 @@ gpgcheck=0
 repo_gpgcheck=0
 enabled=1
 enabled_metadata=1
+metadata_expire=4h
