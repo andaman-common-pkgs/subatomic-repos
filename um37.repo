@@ -1,0 +1,20 @@
+[andaman-common]
+name=Andaman Common Packages $releasever
+baseurl=https://subatomic.fyralabs.com/ad37
+type=rpm
+skip_if_unavailable=True
+gpgcheck=0
+repo_gpgcheck=0
+enabled=1
+enabled_metadata=1
+
+
+[andaman-common]
+name=Ultramarine Linux $releasever
+baseurl=https://subatomic.fyralabs.com/um37
+type=rpm
+skip_if_unavailable=True
+gpgcheck=0
+repo_gpgcheck=0
+enabled=1
+enabled_metadata=1
