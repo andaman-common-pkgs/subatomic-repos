@@ -11,12 +11,12 @@ enabled_metadata=1
 
 [terra]
 name=Terra Packages $releasever
-baseurl=https://repos.fyralabs.com/terra37
+baseurl=https://repos.fyralabs.com/terra39
 type=rpm
 skip_if_unavailable=True
 gpgcheck=1
 repo_gpgcheck=1
-gpgkey=https://repos.fyralabs.com/terra37/key.asc
+gpgkey=https://repos.fyralabs.com/terra39/key.asc
 enabled=1
 enabled_metadata=1
 metadata_expire=4h
